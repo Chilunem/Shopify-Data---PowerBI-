@@ -1,4 +1,4 @@
-# Shopify-Data---PowerBI-
+# Shopify-Data-PowerBI
 Table of Contents for Repository Artifacts
 
 File Number	Title	Description
