@@ -3,13 +3,14 @@ Table of Contents for Repository Artifacts
 
 File Number	Title	Description
 1	README.md	This current page with all relevant information about the project, just past the Table of contents.
-2	Requirements.txt	A simple .txt file with the provided project requirements as provided by TripleTen.
+2	Requirements.txt	A simple .txt file with the provided project requirements 
+
+
 Table of Contents for README
 
 Section Title	Description
 DATA	Describes the source of data, included files, tables, and fields.
 Description	Describes the final product's purpose, software, format, and included visuals.
-Assumptions	Describes assumptions to include given by TripleTen and assumptions made based on the data and task.
 Process	A general outline of how this project formed from start to finish.
 Findings	Insights learned from the data analysis.
 Data
